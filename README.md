@@ -16,30 +16,48 @@
 
 [**Older Game Jams**](oldjams)
 
-You can use the [editor on GitHub](https://github.com/freedomdown/ryanisa.ninja/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Presentations:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are the presentations I have done for the Calgary Game Developers Association:
 
-### Markdown
+### September 2017 - Game Genie presentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How did these cheating devices work? And why are they uncommon now? How do you protect against them?
 
-```markdown
-Syntax highlighted code block
+[**View Slides**](https://docs.google.com/presentation/d/1n1DXBCkOoAsyz6Ov7Trrt5_AiiNDuMzD4TH8SJX1TlU/edit?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
+Here is the example I showed of obfuscating variables to make them harder to find.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```C#
+//more secure float
+public struct sfloat
+{
+    private float value;
+    private float offset;
+    public sfloat(float firstValue = 0f)
+    {
+        set(firstValue);
+    }
+    public void set(float newValue)
+    {
+        offset = Random.Range(-1000, 1000);
+        value = newValue - offset;
+    }
+    public float get()
+    {
+        return value + offset;
+    }
+    static public implicit operator float(sfloat secureFloat)
+    {//implicit conversion to float
+        return secureFloat.get()
+    }
+}
 ```
 
-### 159.203.4.60
+### January 2016 - Unity inspector tricks
+
+Some neat tricks you can use to make using the inspector in Unity more pleasant.
+
+[View Slides](https://docs.google.com/presentation/d/1Q2jKwT85nTVqV1zcmusctR1bkySkPw5-TAwqZo7yd7Y/edit?usp=sharing)
+
+_Ryan Dallaire 2018_
