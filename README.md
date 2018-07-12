@@ -1,4 +1,6 @@
-# Posts:
+#Ryan is a Ninja
+
+## Posts:
 
 [**Ludum Dare 41**](ld41)
 
@@ -18,7 +20,7 @@
 
 
 
-# Presentations:
+## Presentations:
 
 Here are the presentations I have done for the Calgary Game Developers Association:
 
@@ -64,7 +66,7 @@ Some neat tricks you can use to make using the inspector in Unity more pleasant.
 
 
 
-# Ryan Dallaire
+## Ryan Dallaire
 
 A Director of the [Calgary Game Developers Association](http://www.calgarygamedevelopers.com/)
 
