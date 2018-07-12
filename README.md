@@ -1,12 +1,19 @@
 # Posts:
 
 [**Ludum Dare 41**](ld41.html)
+
 [**Global Game Jam 2018**](ggj2018.html)
+
 [**S.A.C. RPG Prototyve**](sacrpg.html)
+
 [**Ludum Dare 39**](ld39.html)
+
 [**Ludum Dare 38**](ld38.html)
+
 [**ShaderForge - 2D Sprite Outline**](spriteoutline.html)
+
 [**Global Game Jam 2017**](ggj2017.html)
+
 [**Older Game Jams**](oldjams.html)
 
 You can use the [editor on GitHub](https://github.com/freedomdown/ryanisa.ninja/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -34,11 +41,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freedomdown/ryanisa.ninja/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 159.203.4.60
