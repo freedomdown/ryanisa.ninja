@@ -1,20 +1,20 @@
 # Posts:
 
-[**Ludum Dare 41**](ld41.html)
+[**Ludum Dare 41**](ld41)
 
-[**Global Game Jam 2018**](ggj2018.html)
+[**Global Game Jam 2018**](ggj2018)
 
-[**S.A.C. RPG Prototyve**](sacrpg.html)
+[**S.A.C. RPG Prototyve**](sacrpg)
 
-[**Ludum Dare 39**](ld39.html)
+[**Ludum Dare 39**](ld39)
 
-[**Ludum Dare 38**](ld38.html)
+[**Ludum Dare 38**](ld38)
 
-[**ShaderForge - 2D Sprite Outline**](spriteoutline.html)
+[**ShaderForge - 2D Sprite Outline**](spriteoutline)
 
-[**Global Game Jam 2017**](ggj2017.html)
+[**Global Game Jam 2017**](ggj2017)
 
-[**Older Game Jams**](oldjams.html)
+[**Older Game Jams**](oldjams)
 
 You can use the [editor on GitHub](https://github.com/freedomdown/ryanisa.ninja/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
