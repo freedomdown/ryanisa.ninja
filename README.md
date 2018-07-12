@@ -1,5 +1,6 @@
 # Ryan is a Ninja
 
+
 ## Posts:
 
 [**Ludum Dare 41**](ld41)
@@ -25,7 +26,8 @@
 [CGDA Presentations](cgdapres)
 
 
-## Ryan Dallaire
+
+## Contact Info:
 
 A Director of the [Calgary Game Developers Association](http://www.calgarygamedevelopers.com/)
 
