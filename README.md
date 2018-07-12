@@ -16,6 +16,7 @@
 
 [**Older Game Jams**](oldjams)
 
+
 # Presentations:
 
 Here are the presentations I have done for the Calgary Game Developers Association:
@@ -60,4 +61,12 @@ Some neat tricks you can use to make using the inspector in Unity more pleasant.
 
 [View Slides](https://docs.google.com/presentation/d/1Q2jKwT85nTVqV1zcmusctR1bkySkPw5-TAwqZo7yd7Y/edit?usp=sharing)
 
-_Ryan Dallaire 2018_
+## Ryan Dallaire
+A Director of the [Calgary Game Developers Association](http://www.calgarygamedevelopers.com/)
+Hobbyist Game Developer
+C# Programmer
+
+Email: Ryan.W.Dallaire@gmail.com
+Email: Ryan@CalgaryGameDevelopers.com
+Twitter: @RyanWDallaire  _I don't use it_
+PGP: https://keybase.io/freedomdown
