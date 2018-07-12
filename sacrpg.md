@@ -29,6 +29,7 @@ The players should only roll if: they are pressed for time, can't infinitely ret
 **Grade Table**
 
 The grades determine how good you are at the stat by setting what number you have to roll under.
+
 ![rpg table](sacrpg.png)
 
 **Difficulty**
