@@ -61,7 +61,8 @@ Some neat tricks you can use to make using the inspector in Unity more pleasant.
 
 [View Slides](https://docs.google.com/presentation/d/1Q2jKwT85nTVqV1zcmusctR1bkySkPw5-TAwqZo7yd7Y/edit?usp=sharing)
 
-## Ryan Dallaire
+
+# Ryan Dallaire
 
 A Director of the [Calgary Game Developers Association](http://www.calgarygamedevelopers.com/)
 
