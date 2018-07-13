@@ -23,7 +23,7 @@
 
 ## Presentations:
 
-[CGDA Presentations](cgdapres)
+[**CGDA Presentations**](cgdapres)
 
 
 
