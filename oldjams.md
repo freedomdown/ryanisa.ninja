@@ -3,7 +3,7 @@
 
 Arcafire is a competitive local multiplayer Pong dueling game. Its Pong with a modern intense fast-paced dueling twist. Arcafire was developed and designed for CalCade Jam, Calgary Game Developer Association first sponsored arcade cabinet Jam.
 
-![arcafire screenshot](calcade2016.png)
+![arcafire screenshot](images/calcade2016.png)
 
 ### Gishiki Shooter - Made at Global Game Jam 2016
 
@@ -17,7 +17,7 @@ Help this poor clown inject some fun into his soul by blowing some balloons...oh
 
 [itch.io](https://madcapacity.itch.io/sadu-clown-for-hire)
 
-![Saddu screenshot](ld34.jpg)
+![Saddu screenshot](images/ld34.jpg)
 
 ### Get Out of My Way! - Made at Ludum Dare 33
 
