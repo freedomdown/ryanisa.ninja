@@ -1,6 +1,16 @@
-#CGDA Presentations
+# CGDA Presentations
 
 Here are the presentations I have done for the Calgary Game Developers Association:
+### September 2018 - Custom Unity Inspectors
+
+Expanding on the presentation I did in 2016, here is some sample code of writing your own inspector. And there is a sample of an Editor window.
+
+[**View Slides**](https://docs.google.com/presentation/d/1nHAmR-JZefxOezRR0lhRkhb0oin7ZDGW5BdllYIQs80/edit?usp=sharing)
+
+Here are the code samples:
+
+
+
 
 ### September 2017 - Game Genie presentation
 
