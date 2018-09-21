@@ -7,7 +7,7 @@
 
 [**Global Game Jam 2018**](ggj2018)
 
-[**S.A.C. RPG Prototyve**](sacrpg)
+[**S.A.C. RPG Prototype**](sacrpg)
 
 [**Ludum Dare 39**](ld39)
 
