@@ -11,6 +11,7 @@ Here are the code samples:
 
 [**Code Samples**](Inspector-Samples.zip)
 
+Note: The editor scripts have to be in a folder called "Editor" next to the component scripts.
 
 ### September 2017 - Game Genie presentation
 
