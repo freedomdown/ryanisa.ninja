@@ -31,8 +31,6 @@
 
 ## Contact Info:
 
-A Director of the [Calgary Game Developers Association](http://www.calgarygamedevelopers.com/)
-
 Hobbyist Game Developer
 
 C# Programmer
