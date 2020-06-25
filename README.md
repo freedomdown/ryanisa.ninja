@@ -40,8 +40,6 @@ C# Programmer
 
 Email: Ryan.W.Dallaire@gmail.com
 
-Email: Ryan@CalgaryGameDevelopers.com
-
 Twitter: @RyanWDallaire  _I don't use it_
 
 PGP: https://keybase.io/freedomdown
